@@ -1,6 +1,6 @@
 const config = {
-  title: "网站标题",                 //网站标题
-  subtitle: "网站描述",              //网站描述
+  title: "车神之家",                 //网站标题
+  subtitle: "车神导航",              //网站描述
   logo_icon: "https://itku.ml/wp-content/uploads/2019/07/my.jpg",    //网站图标
   search_engine:[                   //搜索
     {
@@ -22,22 +22,22 @@ const config = {
   ], 
    lists: [                            //Url list
     {
-      name:"技术",
+      name:"常用",
       list:[
         {
-          url:"https://oschina.net/",
-          name:"开源中国",
-          desc:"程序员集散地"
+          url:"https://zt.wjzt.eu.org",
+          name:"粘贴板",
+          desc:"粘贴临时文字"
         },
         {
-          url:"https://v2ex.com",
-          name:"V2EX",
-          desc:"程序员集散地"
+          url:"https://tc.wjzt.eu.org",
+          name:"图床",
+          desc:"放图片"
         },
         {
-          url:"https://csdn.net/",
-          name:"CSDN技术社区",
-          desc:"程序员集散地"
+          url:"https://aa.wjzt.eu.org",
+          name:"测试网页",
+          desc:"测试"
         },
         {
           url:"https://github.com/",
